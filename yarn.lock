@@ -1519,17 +1519,31 @@
     schema-utils "^2.6.5"
     source-map "^0.7.3"
 
-"@remixproject/plugin-api@0.3.19", "@remixproject/plugin-api@^0.3.19":
+"@remixproject/plugin-api@0.3.19":
   version "0.3.19"
   resolved "https://registry.npmjs.org/@remixproject/plugin-api/-/plugin-api-0.3.19.tgz#4c6ecb6f7bdfb1fb14815aed1dd3333d87e249e9"
   integrity sha512-MDCiGYA++5ydncSJUSNe5Fg0qh2fADbMdlCDP8BGsvUfhPEDBRIm8Iw6gYYGu9d5S4xDCs0EBMcExqvdweOGEw==
   dependencies:
     "@remixproject/plugin-utils" "0.3.19"
 
+"@remixproject/plugin-api@^0.3.208":
+  version "0.3.208"
+  resolved "https://registry.yarnpkg.com/@remixproject/plugin-api/-/plugin-api-0.3.208.tgz#28505b84ec06c84e04ca1bf7cfa51109c178c06b"
+  integrity sha512-11hFxABBrEzE4fgcDblWqxLAh5ARH2tBADgh9KNk+y7LUV7aQ7OZf4KiZ2US+uKiSC6497iu/uLHbWBTeRqlVA==
+  dependencies:
+    "@remixproject/plugin-utils" "0.3.208"
+
 "@remixproject/plugin-utils@0.3.19", "@remixproject/plugin-utils@^0.3.19":
   version "0.3.19"
   resolved "https://registry.npmjs.org/@remixproject/plugin-utils/-/plugin-utils-0.3.19.tgz#639a2a9860ef7ae43f8d6378a82e1b469086f4b7"
   integrity sha512-++L83MmSeV4Hri4uldOB0iNqwOAN/3eAnYorpiSCpKJbeQzT08KyorQ6B3FAiG/EM0pF/o+sPZbNtSJuHCUfIw==
+  dependencies:
+    tslib "2.0.1"
+
+"@remixproject/plugin-utils@0.3.208":
+  version "0.3.208"
+  resolved "https://registry.yarnpkg.com/@remixproject/plugin-utils/-/plugin-utils-0.3.208.tgz#8ec1339af9177358c09a7dd7a39396f52c4cad27"
+  integrity sha512-PjEK+ty6X14ud3h2U/XH8BBbqwLF3CwduOxHCXfCG0KarR4FwuSfocWQfGlASeDFmPzyV1aMGn//U6xZ03O42Q==
   dependencies:
     tslib "2.0.1"
 

@@ -5,7 +5,7 @@
   "author": "MachinaLabs",
   "dependencies": {
     "@remixproject/plugin": "^0.3.19",
-    "@remixproject/plugin-api": "^0.3.19",
+    "@remixproject/plugin-api": "^0.3.208",
     "@remixproject/plugin-utils": "^0.3.19",
     "@remixproject/plugin-webview": "^0.3.19",
     "@testing-library/jest-dom": "^5.14.1",
